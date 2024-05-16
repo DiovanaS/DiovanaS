@@ -1,6 +1,6 @@
 ### Olá! Me chamo Giovana 🌙
 
-Estou cursando Sistemas de Informação e trabalhando como auxiliar administrativo na DASS. 
+Estou cursando Sistemas de Informação e trabalhando como assistente de Marketing na Beytech. 
 Tenho afinidade com edição de imagem e vídeo 🎥🖼️, e com as linguagens HTML, CSS e Python 💻.
 
 
