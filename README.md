@@ -3,7 +3,7 @@
 
 
 ### 📬 Onde me encontrar
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovana-silva-94a739214)](https://www.linklinkedin.com/in/giovana-silva-94a739214)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovana-silva-94a739214)](https://www.linkedin.com/in/giovana-silva-94a739214)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giovanasds1923@gmail.com)](mailto:giovanasds1923@gmail.com)
 </h1>
 
