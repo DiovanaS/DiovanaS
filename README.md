@@ -1,25 +1,35 @@
-### Oiie, Me chamo Giovana 👋
-
-Estou cursando Sistemas de Informação e trabalhando como assistente de Marketing na Beytech. 
-Tenho afinidade com edição de imagem e vídeo 🎥🖼️, e com as linguagens HTML, CSS e Python 💻.
+<h2>Oii. Sou Giovana, mas você pode me chamar de <a href="https://github.com/DiovanaS">Gii</a> <img height="30px" src="https://slackmojis.com/emojis/3643-cool-doge/download"></h2>
+</h1>
 
 
+### 📬 Onde me encontrar
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/giovana-silva-94a739214)](linkedin.com/in/giovana-silva-94a739214)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giovanasds1923@gmail.com)](mailto:giovanasds1923@gmail.com)
+</h1>
 
-### 💡 Habilidades
+### Um pouquinho sobre mim..
+Estou cursando Sistemas de Informação no **[@ IFBA](https://portal.ifba.edu.br/)**. Curto bastante **Tecnologia** 💻😁 principalmente pela possibilidade de aprender e criar produtos interessantes e incríveis que atendem a diversos fins.
+<h1></h1>
 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+### 😎 Alguns fatos rápidos
 
-![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+  - ✝️ Sou cristã 
+  - 📚🎞️ Amo ler e assistir filmes dos anos 2000
+  - 📷 Sou fã número 1 de tudo que envolve marketing
+  - 🖥️ Tudo que envolve UX/design me interessa muito
+  - 🏋🏾‍♀️🚴🏾‍♀️🏃🏾‍♀️ E nas horinhas vagas, faço musculação, ciclismo e corrida
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<h1> </h1>
+
+### ⚙️ Algumas ferramentas que utilizo
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://avatars1.githubusercontent.com/u/2918581?s=200&v=4"></code>
 
 
+<h1> </h1>
 
-#
+### 📃 Currículo
 
-[![Resume](https://img.shields.io/badge/Resume-222B3C?style=for-the-badge&logo=todoist&logoColor=white)](https://diovanas.github.io/resume/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovana-silva-94a739214)
+  [![Resume](https://img.shields.io/badge/Resume-222B3C?style=for-the-badge&logo=todoist&logoColor=white)](https://diovanas.github.io/resume/)
+
